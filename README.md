@@ -1,5 +1,6 @@
 # -Automatic-Parking-System-Using-Programmable-Logic-Controllers-
 System Functional Description :
+
 • The entire system is powered by an S/R Latch switching mechanism with a Power LED indicator
 
 • The system has two motor-controlled doors: Entrance Door, Exit Door
